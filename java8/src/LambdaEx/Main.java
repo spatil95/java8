@@ -28,9 +28,9 @@ public class Main {
 		
 		System.out.println("_________________Foreach Loop____________________________");
 		List<String> list=new ArrayList<String>();  
-        list.add("Monkey");  
+        list.add("Dipali");  
         list.add("Rutuja");  
-        list.add("Shiner");  
+        list.add("Arvind");  
         list.add("Sagar");
         
         list.forEach(l->{System.out.println(l);});
